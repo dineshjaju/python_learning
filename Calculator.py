@@ -16,7 +16,7 @@ class Calculator:
         return (self.num2 / self.num1)
 
 
-demo1 = Calculator(10, 94)
+demo1 = Calculator(126,126)
 print("Addition:", demo1.add())
 print("Subtraction:", demo1.subtract())
 print("Mutliplication:", demo1.multiply())
